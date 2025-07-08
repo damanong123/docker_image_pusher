@@ -1,1 +1,4 @@
 ubuntu:20.04
+centos:7
+alpine
+debian
